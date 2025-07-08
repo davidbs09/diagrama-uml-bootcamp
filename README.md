@@ -29,7 +29,7 @@ Sinta-se à vontade para contribuir ou sugerir melhorias!
 [🔗 Veja o meu Diagrama UML no Lucidchart](https://lucid.app/lucidchart/402c5c2d-5914-4dfa-a4d5-0318fbfb3e6e/edit?viewport_loc=-2049%2C-985%2C3071%2C1511%2C0_0&invitationId=inv_68c1c5b4-5ad7-4bb9-8c43-39fe7b952ed1)
 <br>
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 
 ## Autor
